@@ -2,10 +2,10 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Projects"
+title = "Research"
 subtitle = ""
 
 [content]
@@ -42,7 +42,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -73,5 +73,39 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
+# [bioRxiv 2020]{{< ref "publication/2020-CD8T/index.md" >}}
+# [Nat Biotechnol 2017]{{< ref "publication/2017-nat-biotech-guide-scan/index.md" >}}
+
 +++
 
+We develop computational methods for design and analysis of high-throughput functional genomic assays and perturbations, with a focus on multi-modal single-cell technologies. We apply these methods to study regulatory genomics of cell function and cell-cell interactions *in vivo* in close collaboration with experimental biologists, with a focus on immunology and cancer.
+
+<br/>
+
+
+{{< figure library="true" src="cd8t-compile.png" >}}
+
+CD8 T cells form the central component of adaptive immune system and are essential in defense against viral and bacterial infections and in tumor immunity. Better molecular characterization of CD8 T cells in different contexts is fundamentally important and can have clinical applications in cancer immunotherapies, infectious diseases, autoimmunity. We performed an extensive genomic, single-cell, and transcription factor analysis of CD8 T cell functional and dysfunctional states. We now continue studying molecular regulatory mechanisms and cell-cell interactions governing CD8 T cell activation and functional commitment across immune challenges using single-cell multi-omics.
+
+<br/>
+
+
+{{< figure library="true" src="guidescan.png" >}}
+
+Programmable genome editing using CRISPR has tremendously advanced life sciences. To facilitate the use of this technology, especially in the noncoding genome and for batch screens,
+we developed GuideScan, a fully customizable CRISPR guide RNA design tool. We now continue working on tools for design and analysis of CRISPR-based genome perturbations and their combinations with single-cell functional genomic assays.
+
+<br/>
+
+
+{{< figure library="true" src="Tregs-fig1.png" >}}
+
+Regulatory T (Treg) cells are critical for tolerance to self-antigens and preventing autoimmunity. Their differentiation and function are controlled by transcription factor Foxp3, but mechanistic understanding of Foxp3 role remains elusive. Using functional genomic analysis, we explored Foxp3 function and its interaction with a highly expressed closely related factor Foxp1. We are now studying the role of Foxp3 and other factors in organizing chromatin architecture of Treg cells.
+
+<br/>
+
+
+{{< figure library="true" src="HEAP-cyrano.png" >}}
+
+Cross-linking immunoprecipitation followed by sequencing (CLIP-seq) is a family of methods for profiling sites of protein binding to RNA. In particular, CLIP has been used to study targets of microRNAs, small non-coding RNA molecules that, when bound to a protein Ago2, regulate gene expression post-transcriptionally. We developed a new algorithm CLIPanalyze for analysis of such data and used it for comprehensive analysis of microRNA targets *in vivo* in mouse embryonic stem cells, developing embryos, adult tissues and multiple cancer models.

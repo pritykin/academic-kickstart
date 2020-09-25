@@ -78,7 +78,7 @@ privacy_pack = false
 edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = false, page = false, post = false}}
 
 # Show related content at the bottom of pages?
-show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true}
+show_related = {docs = false, page = false, post = false, project = false, publication = false, talk = false}
 
 ############################
 ## Contact details
@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "417 East 68th Street", city = "New York", region = "NY", postcode = "10065", country = "United States", country_code = "US"}
+address = {street = "Zuckerman Research Center, 417 East 68th Street", city = "New York", region = "NY", postcode = "10065", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
