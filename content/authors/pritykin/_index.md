@@ -85,7 +85,7 @@ I will join [Princeton University](https://www.princeton.edu/) in January 2021 a
 
 
 I am a postdoctoral researcher in [the Leslie lab](https://www.mskcc.org/research/ski/labs/christina-leslie) in [Computational and Systems Biology Program](https://www.mskcc.org/research/ski/programs/computational-biology) at [Memorial Sloan Kettering Cancer Center](https://www.mskcc.org/research/ski).
-My main interest and expertise is in using applied statistics, machine learning, and efficient computer algorithms to address fundamental problems in biology and medicine by integrative analysis of multi-dimensional data.
+My main interest and expertise is in using applied statistics, machine learning, and efficient algorithms to address fundamental problems in biology and medicine by integrative analysis of multi-dimensional data.
 
 
 
