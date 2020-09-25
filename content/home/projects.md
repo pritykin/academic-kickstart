@@ -86,8 +86,7 @@ We develop computational methods for design and analysis of high-throughput func
 
 {{< figure library="true" src="cd8t-compile.png" >}}
 
-CD8 T cells form the central component of adaptive immune system and are essential in defense against viral and bacterial infections and in tumor immunity. Better molecular characterization of CD8 T cells in different contexts is fundamentally important and can lead to improved clinical results in cancer immunotherapies, infectious diseases, autoimmunity. We performed an extensive genomic, single-cell, and transcription factor analysis of CD8 T cell functional and dysfunctional states
-( [bioRxiv 2020](publication/2020-cd8t/index.html) ). We now continue studying regulatory mechanisms and cell-cell interactions governing CD8 T cell activation and functional commitment across immune challenges using single-cell multi-omics.
+CD8 T cells form the central component of adaptive immune system and are essential in defense against viral and bacterial infections and in tumor immunity. Better molecular characterization of CD8 T cells in different contexts is fundamentally important and can lead to improved clinical results in cancer immunotherapies, infectious diseases, autoimmunity. We performed an extensive genomic, single-cell, and transcription factor [analysis](publication/2020-cd8t/index.html) of CD8 T cell functional and dysfunctional states. We now continue studying regulatory mechanisms and cell-cell interactions governing CD8 T cell activation and functional commitment across immune challenges using single-cell multi-omics.
 
 <br/>
 
@@ -95,19 +94,18 @@ CD8 T cells form the central component of adaptive immune system and are essenti
 {{< figure library="true" src="guidescan.png" >}}
 
 Programmable genome editing using CRISPR has tremendously advanced life sciences. To facilitate the use of this technology, especially in the noncoding genome and for batch screens,
-we developed GuideScan, a fully customizable CRISPR guide RNA design tool
-( [Nat Biotechnol 2017](publication/2017-nat-biotech-guide-scan/index.html) ). We now continue working on tools for design and analysis of CRISPR-based genome perturbations and their combinations with single-cell functional genomic assays.
+we developed [GuideScan](publication/2017-nat-biotech-guide-scan/index.html), a fully customizable CRISPR guide RNA design tool. We now continue working on tools for design and analysis of CRISPR-based genome perturbations and their combinations with single-cell functional genomic assays.
 
 <br/>
 
 
 {{< figure library="true" src="Tregs-fig1.png" >}}
 
-Regulatory T (Treg) cells are critical for tolerance to self-antigens and preventing autoimmunity. Their differentiation and function are controlled by transcription factor Foxp3, but mechanistic understanding of Foxp3 role remains elusive. Using functional genomic analysis, we explored Foxp3 function and its interaction with a highly expressed closely related factor Foxp1 ( [Nat Immunol 2019](publication/2019-nat-immunol-foxp-1-foxp-3-treg/index.html) ). We are now studying the role of Foxp3 and other factors in organizing chromatin architecture of Treg cells.
+Regulatory T (Treg) cells are critical for tolerance to self-antigens and preventing autoimmunity. Their differentiation and function are controlled by transcription factor Foxp3, but mechanistic understanding of Foxp3 role remains elusive. Using functional genomic analysis, [we explored](publication/2019-nat-immunol-foxp-1-foxp-3-treg/index.html) Foxp3 function and its interaction with a highly expressed closely related factor Foxp1. We are now studying the role of Foxp3 and other factors in organizing chromatin architecture of Treg cells.
 
 <br/>
 
 
 {{< figure library="true" src="HEAP-cyrano.png" >}}
 
-Cross-linking immunoprecipitation followed by sequencing (CLIP-seq) is a family of methods for profiling sites of protein binding to RNA. In particular, CLIP has been used to identify targets of microRNAs, small non-coding RNA molecules that, when bound to a protein Ago2, regulate gene expression post-transcriptionally. We developed a new algorithm [CLIPanalyze](https://bitbucket.org/leslielab/clipanalyze) for analysis of such data and used it for comprehensive analysis of microRNA targets *in vivo* in mouse embryonic stem cells, developing embryos, adult tissues and multiple cancer models ( [Mol Cell 2020](publication/2020-mol-cell-heap/index.html) ).
+Cross-linking immunoprecipitation followed by sequencing (CLIP-seq) is a family of methods for profiling sites of protein binding to RNA. In particular, CLIP has been used to identify targets of microRNAs, small non-coding RNA molecules that, when bound to a protein Ago2, regulate gene expression post-transcriptionally. We developed a new algorithm [CLIPanalyze](https://bitbucket.org/leslielab/clipanalyze) for analysis of such data and used it for [comprehensive analysis](publication/2020-mol-cell-heap/index.html) of microRNA targets *in vivo* in mouse embryonic stem cells, developing embryos, adult tissues and multiple cancer models.
