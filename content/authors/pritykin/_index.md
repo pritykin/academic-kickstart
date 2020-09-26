@@ -81,12 +81,10 @@ email: ""
 ---
 
 **News:**
-I will join [Princeton University](https://www.princeton.edu/) in January 2021 as an Assistant Professor at [Computer Science Department](https://www.cs.princeton.edu/) and [Lewis-Sigler Institute for Integrative Genomics](https://lsi.princeton.edu/). More details coming soon.
-
+I will join [Princeton University](https://www.princeton.edu/) in January 2021 as an Assistant Professor at [Computer Science Department](https://www.cs.princeton.edu/) and [Lewis-Sigler Institute for Integrative Genomics](https://lsi.princeton.edu/).
 
 I am a postdoctoral researcher in [the Leslie lab](https://www.mskcc.org/research/ski/labs/christina-leslie) in [Computational and Systems Biology Program](https://www.mskcc.org/research/ski/programs/computational-biology) at [Memorial Sloan Kettering Cancer Center](https://www.mskcc.org/research/ski).
 My main interest and expertise is in using applied statistics, machine learning, and efficient algorithms to address fundamental problems in biology and medicine by integrative analysis of multi-dimensional data.
-
 
 
 #### Awards
