@@ -81,6 +81,8 @@ subtitle = ""
 
 We develop computational methods for design and analysis of high-throughput functional genomic assays and perturbations, with a focus on multi-modal single-cell technologies. We apply these methods to study regulatory genomics of cell function and cell-cell interactions *in vivo* in close collaboration with experimental biologists, with a focus on immunology and cancer.
 
+Examples of our past and ongoing work are below.
+
 <br/>
 
 
