@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Research Associate
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Memorial Sloan Kettering Cancer Center
-  url: "https://www.mskcc.org/research/ski"
+- name: Princeton University
+  url: "https://www.princeton.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -30,6 +30,8 @@ interests:
 
 education:
   courses:
+#  - course: Postdoc, 2021
+#    institution: Memorial Sloan Kettering Cancer Center
   - course: PhD, Computer Science
     institution: Princeton University
     year: 2014
@@ -80,11 +82,16 @@ email: ""
 # - Visitors
 ---
 
-**News:**
-I will join [Princeton University](https://www.princeton.edu/) in January 2021 as an Assistant Professor at [Computer Science Department](https://www.cs.princeton.edu/) and [Lewis-Sigler Institute for Integrative Genomics](https://lsi.princeton.edu/).
+I am an Assistant Professor in [the Lewis-Sigler Institute for Integrative Genomics](https://lsi.princeton.edu/) and [the Computer Science Department](https://www.cs.princeton.edu/) at [Princeton University](https://www.princeton.edu/) (starting January 2021).
 
-I am a postdoctoral researcher in [the Leslie lab](https://www.mskcc.org/research/ski/labs/christina-leslie) in [Computational and Systems Biology Program](https://www.mskcc.org/research/ski/programs/computational-biology) at [Memorial Sloan Kettering Cancer Center](https://www.mskcc.org/research/ski).
-My main interest and expertise is in using applied statistics, machine learning, and efficient algorithms to address fundamental problems in biology and medicine by integrative analysis of multi-dimensional data.
+My main interest and expertise are in using applied statistics, machine learning, and efficient algorithms to address fundamental problems in biology and medicine by integrative analysis of multi-dimensional data.
+
+Previously I was a postdoctoral researcher in [the Leslie lab](https://www.mskcc.org/research/ski/labs/christina-leslie) in [Computational and Systems Biology Program](https://www.mskcc.org/research/ski/programs/computational-biology) at [Memorial Sloan Kettering Cancer Center](https://www.mskcc.org/research/ski). I received PhD in [computer science](https://www.cs.princeton.edu/) from [Princeton University](https://www.princeton.edu/) advised by [Mona Singh](https://www.cs.princeton.edu/~mona/) and MSc and PhD in [mathematics](https://www.msu.ru/en/info/struct/depts/mechmath.html) from [Lomonosov Moscow State University](https://www.msu.ru/en/) advised by [Alexei Semenov](https://dblp.org/pid/43/3466.html) and [Andrej Muchnik](https://dblp.org/pid/m/AndrejMuchnik.html). I finished [Moscow School 57](https://en.wikipedia.org/wiki/Moscow_State_School_57).
+
+
+#### Positions
+
+Positions for computational biologists are available at multiple levels in my lab, details and the lab website coming soon. Prospective PhD students interested in working with me are encouraged to apply to [QCB](https://lsi.princeton.edu/qcbgraduate) and [CS](https://www.cs.princeton.edu/grad) graduate programs at Princeton. Current Princeton students interested in working with me are encouraged to [contact me](#contact) directly.
 
 
 #### Awards

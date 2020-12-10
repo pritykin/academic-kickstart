@@ -88,16 +88,16 @@ show_related = {docs = false, page = false, post = false, project = false, publi
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "pritykin at cbio.mskcc.org"
+email = "pritykin at princeton.edu"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Zuckerman Research Center, 417 East 68th Street", city = "New York", region = "NY", postcode = "10065", country = "United States", country_code = "US"}
+address = {street = "245 Carl Icahn Lab, Lewis-Sigler Institute for Integrative Genomics, South Drive, Princeton University", city = "Princeton", region = "NJ", postcode = "08544", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.764996", longitude = "-73.956999"}
+coordinates = {latitude = "40.344401", longitude = "-74.653391"}
 
 
 # Directions for visitors to locate you.
